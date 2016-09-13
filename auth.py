@@ -38,3 +38,4 @@ from pprint import pprint as pp ; pp(resp)
 if 'token' in resp:
     print("!!! Run the following in your shell:")
     print('export GITHUB_TOKEN="{}"'.format(resp['token']))
+hi hi, thay đoi xí thôi
